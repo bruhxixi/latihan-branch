@@ -1,2 +1,2 @@
 # ini adalah repostory untuk latihan membuat branch baru di GitHub.
-GitHub itu asik lo.
+Belajar Github di Dicoding itu seru!
